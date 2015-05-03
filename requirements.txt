@@ -1,0 +1,5 @@
+google-api-python-client
+youtube-dl
+PyYAML
+beautifulsoup4
+sqlalchemy
